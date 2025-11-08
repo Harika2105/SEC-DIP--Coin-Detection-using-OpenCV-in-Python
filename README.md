@@ -1,8 +1,8 @@
 # WORKSHOP -4: Coin Detection using OpenCV in Python
 
-<H3>Name: DHANUSH C</H3>
-<H3>Register no: 212224040066</H3>
-<H3>Date: 06.11.2025 </H3>
+<H3>Name: Harika S</H3>
+<H3>Register no: 212224240155</H3>
+<H3>Date: 08.11.2025 </H3>
 
 # AIM:
 To perform Gray scale Morphology Real Time Bone Fracture Detection.
@@ -63,7 +63,8 @@ else:
 ```
 # OUTPUT:
 
-<img width="1190" height="596" alt="Screenshot 2025-11-06 153508" src="https://github.com/user-attachments/assets/bfdc678a-8e8a-40ed-b401-7a109ab7d94a" />
+<img width="1116" height="630" alt="Screenshot 2025-11-06 213125" src="https://github.com/user-attachments/assets/9ead5202-f40a-417f-9a96-296081e0b9ca" />
+
 
 
 
